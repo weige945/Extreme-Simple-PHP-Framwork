@@ -1,0 +1,18 @@
+{
+    "Error":"Error",
+    "Path": ["Controllers"],
+    "Namespace":["Controllers"],
+    "Action": {
+        "Get": "Index",
+        "Post": "Insert",
+        "Put": "Update",
+        "Delete": "Delete"
+    },
+    "Permission": {
+        "Get": true,
+        "Post": true,
+        "Put": true,
+        "Delete": false,
+        "Option": "Permission"
+    }
+}
